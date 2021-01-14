@@ -1,5 +1,5 @@
 {
-    "name": "Topface/odnoklassnikiclient",
+    "name": "topface/odnoklassnikiclient",
     "description": "Simple client for Odnoklassniki API",
     "keywords": ["odnoklassniki", "ok", "odnoklassniki-api", "ok-api"],
     "license": "Apache-2.0",
